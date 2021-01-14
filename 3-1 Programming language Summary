@@ -1,0 +1,76 @@
+#
+语言特点, 适用场合
+#
+现在在发展什么新的programming language ?
+
+
+
+
+* SUMMARY
+一般用User-friendly和Execution Efficiency两个角度去衡量一个语言,
+有一个Scatter plot可以自行搜索一下
+
+* Python/1980
+运用于数据处理, /ML,DL,NLP,
+有强大的Lib,
++ Python 3
++ Jupyter notebook, 单步测试
++ Anoconda, 可隔离设置不同的环境, pycharm/Jupyter notebook
+
+
+* Matlab/1970
+运用于快速的矩阵处理,
+Simulink Package 可用于模型仿真
+
+
+* C/C++/1985
+C++ is C with Class
+偏底层的代码，编译运行速度快
+运用于 Computer Networks/ Image processing
+
+
+* Assembly
+汇编语言,适用于硬件低层
+运用于Operating System,
+
+
+* Java/1995
+用于软件开发,网页开发
+
+
+* R/1993
+用于统计分析和图形显示,
+是一个数据分析工具,
+商科使用较多
+
+
+* Javascript/1995
+用于交互式网页的设计,
+客户端的页面行为, 配合浏览器使用
++ HTML(静态页面内容)/CSS(排版)/JS(动态交互) = Front End In web
++ W3S Tutorial: https://www.w3schools.com/js/DEFAULT.asp 
+
+
+* Go/2009
+Google在内部使用的编程语言,
+是面向过程设计的,
+用于软件和网页开发，功能类似Java
+
+
+* MySQL/1995
+数据库语言,
+用于操作数据库,增删改查
+
+* Swift/2014
+针对苹果系统设计的开发语言, 可用于mobile和CP
+* Objective-C/1984
+mobile OS in apple,
+
+
+* Julia/2012
+适用于数值分析和计算科学,
+
+
+* Ruby/1995
+功能跟类似于Py,
+
